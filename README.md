@@ -13,7 +13,7 @@
 
 #### Perspective Motion Model for Motion Estimation
 <p align="center">
-  <img width="900" src="./images/fig6.PNG">
+  <img width="800" src="./images/fig6.PNG">
 </p>
 
 #### Perspective Affine Motion Compensation (PAMC)
